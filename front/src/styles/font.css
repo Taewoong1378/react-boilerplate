@@ -1,0 +1,17 @@
+@font-face {
+	font-family: "Appple SD GothicNeo";
+	font-weight: 100;
+	src: url("../assets/fonts/AppleSDGothicNeo-Light.ttf") format("ttf");
+}
+
+@font-face {
+	font-family: "Appple SD GothicNeo";
+	font-weight: 400;
+	src: url("../assets/fonts/AppleSDGothicNeo-Medium.ttf") format("ttf");
+}
+
+@font-face {
+	font-family: "Appple SD GothicNeo";
+	font-weight: 700;
+	src: url("../assets/fonts/AppleSDGothicNeo-Bold.ttf") format("ttf");
+}
